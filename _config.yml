@@ -1,7 +1,7 @@
 # Site settings
 name: Caspar
 description: ""
-url: ""
+url: "caspar.one"
 
 
 # Delete the lines you don't need
@@ -26,7 +26,7 @@ soundcloud_username: cas-par-1
 #lastfm_username: your_lastfm_username_goes_here
 #blog_url: "/blog"
 email: me@caspar.one
-#public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+public_key_url: "https://gist.githubusercontent.com/caspargross/9c21c69c6fd6a939771173f07af13bde/raw/7c9e6dc01565eac229ea2ec48ed34bc8cf542b89/GPG.txt"
 
 
 avatar: yes
