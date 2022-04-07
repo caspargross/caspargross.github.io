@@ -25,6 +25,7 @@ soundcloud_username: cas-par-1
 #weibo_username: your_weibo_username_goes_here
 #lastfm_username: your_lastfm_username_goes_here
 #blog_url: "/blog"
+orcid: 0000-0002-9009-5458
 email: mail@caspar.one
 public_key_url: "https://gist.githubusercontent.com/caspargross/9c21c69c6fd6a939771173f07af13bde/raw/7c9e6dc01565eac229ea2ec48ed34bc8cf542b89/GPG.txt"
 
